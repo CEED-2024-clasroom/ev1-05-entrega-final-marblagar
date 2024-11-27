@@ -1,0 +1,22 @@
+{
+  "name": "ev1-05-entrega-final-marblagar",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "eslint": "eslint"
+  },
+  "repository": "https://github.com/CEED-2024-clasroom/ev1-05-entrega-final-marblagar",
+  "author": "Marta <martablanesg@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "eslint": "^9.15.0",
+    "eslint-plugin-html": "^8.1.2",
+    "vite": "^5.4.11"
+  }
+}
